@@ -14,11 +14,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 set(SOURCES
    main.cpp
-  #  lowpassfilter.cpp
-   # NDApproximator.cpp
+
 )
-#set(HEADERS
- #   NDApproximator.h
-  #  lowpassfilter.h
-   # )
+
 add_executable(lr1_1kurs main.cpp)
